@@ -1,0 +1,11 @@
+C:\Users\leonardo.vieira\source\repos\Hello World\Empresa\obj\Debug\netcoreapp2.1\Empresa.csprojAssemblyReference.cache
+C:\Users\leonardo.vieira\source\repos\Hello World\Empresa\obj\Debug\netcoreapp2.1\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.vieira\source\repos\Hello World\Empresa\obj\Debug\netcoreapp2.1\Empresa.AssemblyInfoInputs.cache
+C:\Users\leonardo.vieira\source\repos\Hello World\Empresa\obj\Debug\netcoreapp2.1\Empresa.AssemblyInfo.cs
+C:\Users\leonardo.vieira\source\repos\Hello World\Empresa\bin\Debug\netcoreapp2.1\Empresa.deps.json
+C:\Users\leonardo.vieira\source\repos\Hello World\Empresa\bin\Debug\netcoreapp2.1\Empresa.runtimeconfig.json
+C:\Users\leonardo.vieira\source\repos\Hello World\Empresa\bin\Debug\netcoreapp2.1\Empresa.runtimeconfig.dev.json
+C:\Users\leonardo.vieira\source\repos\Hello World\Empresa\bin\Debug\netcoreapp2.1\Empresa.dll
+C:\Users\leonardo.vieira\source\repos\Hello World\Empresa\bin\Debug\netcoreapp2.1\Empresa.pdb
+C:\Users\leonardo.vieira\source\repos\Hello World\Empresa\obj\Debug\netcoreapp2.1\Empresa.dll
+C:\Users\leonardo.vieira\source\repos\Hello World\Empresa\obj\Debug\netcoreapp2.1\Empresa.pdb

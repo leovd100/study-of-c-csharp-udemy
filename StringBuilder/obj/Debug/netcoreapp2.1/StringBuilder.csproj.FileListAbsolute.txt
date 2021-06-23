@@ -1,0 +1,4 @@
+C:\Users\leonardo.vieira\source\repos\Hello World\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilder.csprojAssemblyReference.cache
+C:\Users\leonardo.vieira\source\repos\Hello World\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.vieira\source\repos\Hello World\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\leonardo.vieira\source\repos\Hello World\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilder.AssemblyInfo.cs

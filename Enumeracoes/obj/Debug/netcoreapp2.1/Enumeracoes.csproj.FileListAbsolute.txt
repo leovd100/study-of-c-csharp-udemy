@@ -1,0 +1,10 @@
+C:\Users\leonardo.vieira\source\repos\Hello World\Enumeracoes\bin\Debug\netcoreapp2.1\Enumeracoes.deps.json
+C:\Users\leonardo.vieira\source\repos\Hello World\Enumeracoes\bin\Debug\netcoreapp2.1\Enumeracoes.runtimeconfig.json
+C:\Users\leonardo.vieira\source\repos\Hello World\Enumeracoes\bin\Debug\netcoreapp2.1\Enumeracoes.runtimeconfig.dev.json
+C:\Users\leonardo.vieira\source\repos\Hello World\Enumeracoes\bin\Debug\netcoreapp2.1\Enumeracoes.dll
+C:\Users\leonardo.vieira\source\repos\Hello World\Enumeracoes\bin\Debug\netcoreapp2.1\Enumeracoes.pdb
+C:\Users\leonardo.vieira\source\repos\Hello World\Enumeracoes\obj\Debug\netcoreapp2.1\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.vieira\source\repos\Hello World\Enumeracoes\obj\Debug\netcoreapp2.1\Enumeracoes.AssemblyInfoInputs.cache
+C:\Users\leonardo.vieira\source\repos\Hello World\Enumeracoes\obj\Debug\netcoreapp2.1\Enumeracoes.AssemblyInfo.cs
+C:\Users\leonardo.vieira\source\repos\Hello World\Enumeracoes\obj\Debug\netcoreapp2.1\Enumeracoes.dll
+C:\Users\leonardo.vieira\source\repos\Hello World\Enumeracoes\obj\Debug\netcoreapp2.1\Enumeracoes.pdb

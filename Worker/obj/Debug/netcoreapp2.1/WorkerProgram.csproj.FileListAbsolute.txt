@@ -1,0 +1,11 @@
+C:\Users\leonardo.vieira\source\repos\Hello World\Worker\bin\Debug\netcoreapp2.1\WorkerProgram.deps.json
+C:\Users\leonardo.vieira\source\repos\Hello World\Worker\bin\Debug\netcoreapp2.1\WorkerProgram.runtimeconfig.json
+C:\Users\leonardo.vieira\source\repos\Hello World\Worker\bin\Debug\netcoreapp2.1\WorkerProgram.runtimeconfig.dev.json
+C:\Users\leonardo.vieira\source\repos\Hello World\Worker\bin\Debug\netcoreapp2.1\WorkerProgram.dll
+C:\Users\leonardo.vieira\source\repos\Hello World\Worker\bin\Debug\netcoreapp2.1\WorkerProgram.pdb
+C:\Users\leonardo.vieira\source\repos\Hello World\Worker\obj\Debug\netcoreapp2.1\WorkerProgram.csprojAssemblyReference.cache
+C:\Users\leonardo.vieira\source\repos\Hello World\Worker\obj\Debug\netcoreapp2.1\WorkerProgram.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.vieira\source\repos\Hello World\Worker\obj\Debug\netcoreapp2.1\WorkerProgram.AssemblyInfoInputs.cache
+C:\Users\leonardo.vieira\source\repos\Hello World\Worker\obj\Debug\netcoreapp2.1\WorkerProgram.AssemblyInfo.cs
+C:\Users\leonardo.vieira\source\repos\Hello World\Worker\obj\Debug\netcoreapp2.1\WorkerProgram.dll
+C:\Users\leonardo.vieira\source\repos\Hello World\Worker\obj\Debug\netcoreapp2.1\WorkerProgram.pdb

@@ -1,0 +1,10 @@
+C:\Users\leonardo.vieira\source\repos\Hello World\StringBuilder\bin\Debug\netcoreapp2.1\StringBuilderProgram.deps.json
+C:\Users\leonardo.vieira\source\repos\Hello World\StringBuilder\bin\Debug\netcoreapp2.1\StringBuilderProgram.runtimeconfig.json
+C:\Users\leonardo.vieira\source\repos\Hello World\StringBuilder\bin\Debug\netcoreapp2.1\StringBuilderProgram.runtimeconfig.dev.json
+C:\Users\leonardo.vieira\source\repos\Hello World\StringBuilder\bin\Debug\netcoreapp2.1\StringBuilderProgram.dll
+C:\Users\leonardo.vieira\source\repos\Hello World\StringBuilder\bin\Debug\netcoreapp2.1\StringBuilderProgram.pdb
+C:\Users\leonardo.vieira\source\repos\Hello World\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilderProgram.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.vieira\source\repos\Hello World\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilderProgram.AssemblyInfoInputs.cache
+C:\Users\leonardo.vieira\source\repos\Hello World\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilderProgram.AssemblyInfo.cs
+C:\Users\leonardo.vieira\source\repos\Hello World\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilderProgram.dll
+C:\Users\leonardo.vieira\source\repos\Hello World\StringBuilder\obj\Debug\netcoreapp2.1\StringBuilderProgram.pdb
